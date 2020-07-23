@@ -19,4 +19,4 @@ My motivations are to increase the quality and decrease the development time of 
 - Twitter: https://twitter.com/patzistar
 - Personal site: https://patrickschadler.com/
 - Portfolio site: https://schadler.dev
-- Photograpgy site (german): https://patrickvisuals.at
+- Photography site (german): https://patrickvisuals.at
