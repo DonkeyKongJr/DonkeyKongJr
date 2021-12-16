@@ -21,3 +21,7 @@ My motivations are to increase the quality and decrease the development time of 
 - Portfolio site: https://schadler.dev
 - QR Maker : https://qrmaker.eu
 - Photography site (german): https://patrickvisuals.at
+
+## Microsoft Certification Badge
+
+![Microsoft Badge](https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png)
