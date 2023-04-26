@@ -3,7 +3,7 @@
 <!--
 **DonkeyKongJr/DonkeyKongJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Hi, I'm Patrick (he/him)— head of software development at [ACP Business Applications GmbH](https://www.acp.at/) working on constantly improving our happiness, environment and code. Previously worked as a senior software engineer at [pmOne](https://pmone.com) and as a head of software development and software engineer at [Provaria GmbH](https://provaria.com). I live in Leibitz, Austria. 🙌 I'm a massive nerd and technology fan looking for new possibilities and gadgets 24/7.
+Hi, I'm Patrick (he/him)— head of software development at [ACP Digital Business Applications GmbH](https://www.acp.at/) working on constantly improving our happiness, environment and code. Previously worked as a senior software engineer at [pmOne](https://pmone.com) and as a head of software development and software engineer at [Provaria GmbH](https://provaria.com). I live in Leibitz, Austria. 🙌 I'm a massive nerd and technology fan looking for new possibilities and gadgets 24/7.
 
 ## My values
 🤝 Unity is strength<br>
