@@ -16,7 +16,6 @@ Hi, I'm Patrick (he/him)— head of software development at [ACP Business Applic
 My motivations are to increase the quality and decrease the development time of our software tremendously. In a fast moving and changing world it is key to provide stable solutions for everybody. I love to use cutting edge technology but I don't fear a good old legacy monster. 
 
 ## Get in touch
-- Twitter: https://twitter.com/patzistar
 - Personal site: https://patrickschadler.com/
 - Portfolio site: https://schadler.dev
 - QR Maker : https://qrmaker.eu
